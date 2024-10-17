@@ -1,0 +1,2 @@
+#!/bin/bash
+sort list_of_words | uniq -u
