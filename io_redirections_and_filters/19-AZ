@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacta | tr "A;c" "Z;e"
+cat iacta | tr "Ac" "Ze"
